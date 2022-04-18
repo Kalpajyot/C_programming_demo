@@ -1,0 +1,3 @@
+5 number were entered
+The sum is 143
+The sum is 28.60
